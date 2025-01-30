@@ -23,7 +23,7 @@ The main objective of this project is to explore the relationship between variou
 
 ## Data
 
-The dataset used in this project is from **Kaggle**: [COVID-19 Line List Data]([https://github.com/CSSEGISandData/COVID-19](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUlHay1MNG43V081Zkt5X0g5MHlrd1NiOUVIUXxBQ3Jtc0tsckE2MV9LUGtxWkhjM2F0YktCcGFCc205Ym5ka296UE5nMGlZazdTNkRiVnlIc0RpLXNkRHBpTDFoajJZVkR4R3k4dHNBYjI2Wk5wa0xaRGtvUXB6WEFZNGd2cmowVEQtR0JodUpNVHExczRCenl3WQ&q=https%3A%2F%2Fwww.kaggle.com%2Fsudalairajkumar%2Fnovel-corona-virus-2019-dataset%2Fdownload%2FuMF6QnlPB7ScS6BxTw1I%252Fversions%252Fe03zBLHwzT7b8fR01UTk%252Ffiles%252FCOVID19_line_list_data.csv%3FdatasetVersionNumber%3D25&v=D_CNmYkGRUc)). It contains the following columns:
+The dataset used in this project is from **Kaggle**: [COVID-19 Line List Data](). It contains the following columns:
 
 - `id`: Unique identifier for each case.
 - `country`: Country of the case.
