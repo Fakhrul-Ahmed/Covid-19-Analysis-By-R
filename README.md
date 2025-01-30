@@ -20,14 +20,28 @@ The main objective of this project is to explore the relationship between variou
 
 ## Data
 
-The dataset used in this project is from **Kaggle**: [COVID-19 Line List Data](). It contains the following columns:
+The dataset used in this project contains the following columns:
 
 - `id`: Unique identifier for each case.
-- `country`: Country of the case.
+- `case_in_country`: Case number within the country.
+- `reporting date`: Date when the case was reported.
+- `summary`: Summary of the case, including details on symptoms, exposure, and outcomes.
+- `location`: Location where the case was reported.
+- `country`: Country where the case was reported.
 - `gender`: Gender of the patient.
 - `age`: Age of the patient.
+- `symptom_onset`: Date when symptoms first appeared.
+- `If_onset_approximated`: Indicates if the symptom onset date is approximated.
+- `hosp_visit_date`: Date when the individual visited the hospital.
+- `exposure_start`: Start date of exposure.
+- `exposure_end`: End date of exposure.
+- `visiting Wuhan`: Indicates if the individual visited Wuhan.
+- `from Wuhan`: Indicates if the individual is from Wuhan.
 - `death`: Status of the patient (1 = deceased, 0 = alive).
 - `recovered`: Status of the patient (1 = recovered, 0 = not recovered).
+- `symptom`: Symptoms experienced by the individual.
+- `source`: Source of the data.
+- `link`: Link to the source of the data.
 
 ## Analysis
 
