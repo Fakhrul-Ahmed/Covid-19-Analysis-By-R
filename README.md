@@ -8,10 +8,7 @@ This project focuses on the analysis of COVID-19 data to explore patterns relate
 - [Data](#data)
 - [Analysis](#analysis)
 - [Visualizations](#visualizations)
-- [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+- [Conclusion](#conclusion)
 
 ## Overview
 
